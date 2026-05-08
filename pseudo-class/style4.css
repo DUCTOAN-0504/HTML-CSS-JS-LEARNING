@@ -1,0 +1,5 @@
+.top:not(p) {
+  background-color: yellow;
+  font-size: 50px;
+  color: aqua;
+}

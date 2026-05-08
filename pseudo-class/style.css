@@ -1,0 +1,37 @@
+.Di_chuot:hover {
+  color: red;
+  font-size: 30px;
+}
+
+.GiuChuot:active {
+  color: red;
+  font-size: 30px;
+}
+
+.ClickMe:link {
+  color: chocolate;
+}
+.clickme:visited {
+  color: blue;
+}
+
+.div_elm:empty {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+.div_elm {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+h2:target {
+  color: red;
+}
+/* :hower :di chuột qua 
+     :active :nhấn giữ chuột 
+     :link :chưa click vào liên kết
+     :visited: đã click truy cập liên kết
+     :empty : không có nội dung 
+     :target : bấm vào link sẽ highlight tiêu đề
+     */

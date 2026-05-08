@@ -1,0 +1,18 @@
+.Avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 1 solid #ccc;
+  margin-left: -70px;
+}
+.Avatar:first-child {
+  margin-left: 0px;
+}
+
+.content {
+  display: inline-block;
+  background-color: yellow;
+  padding: 40px;
+  outline: 1px solid blue;
+  outline-offset: 5px;
+}

@@ -1,0 +1,23 @@
+* {
+  font-size: 1.5rem;
+}
+.box {
+  /* display: inline-flex; */
+  display: flex;
+  background-color: blue;
+  /* gap: 40px; */
+  /* justify-content:; flex-start*/
+  /* justify-content:; flex-end*/
+  /* justify-content: center; */
+  /* justify-content: space-between; */
+  /* justify-content: space-evenly; */
+  /* justify-content: space-around; */
+  /* flex-direction: ; */
+  /* align-items: ; */
+  /* flex-flow: ; */
+
+  /* flex Item red */
+  /* align-self: ; */
+  /* flex-grow: ; */
+  /* flex-shrink: ; kha nang co lai */
+}

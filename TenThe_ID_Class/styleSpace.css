@@ -1,0 +1,24 @@
+.loichuc p {
+  font-size: 30px;
+}
+
+block p {
+  color: red;
+}
+
+div > p {
+  color: aquamarine;
+}
+/* + là chọn 1 thằng ngay sát đằng sau */
+h1 + h2 {
+  color: red;
+}
+
+.demo.demo2 + h3,
+p {
+  color: blue;
+}
+/* ~ chọn tất cả thẻ ... đứng sau */
+h1 ~ h3 {
+  font-size: 50px;
+}

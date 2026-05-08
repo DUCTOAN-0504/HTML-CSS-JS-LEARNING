@@ -1,0 +1,28 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  padding: 10px 20px 30px 40px;
+  border: 10px solid blue;
+  margin: 15px;
+}
+/* bài tập */
+.boxx {
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+}
+.box1 {
+  background-color: gray;
+  border: 15px solid purple;
+}
+.box2 {
+  background-color: green;
+  border: 30px solid black;
+  margin-left: 328px;
+}
+.box3 {
+  background-color: deepskyblue;
+  border: 15px solid red;
+  margin-left: 686px;
+}
